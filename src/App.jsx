@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello an auto deployment test -part 2</h1>
+      <h1>Hello an auto deployment test -part 3</h1>
     </>
   )
 }
